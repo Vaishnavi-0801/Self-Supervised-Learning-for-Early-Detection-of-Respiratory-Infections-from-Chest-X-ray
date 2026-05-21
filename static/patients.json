@@ -1,0 +1,30 @@
+[
+  {
+    "patient_id": "1",
+    "name": "Kalyani I",
+    "age": 20,
+    "gender": "Female",
+    "history": "diabetes"
+  },
+  {
+    "patient_id": "3",
+    "name": "Akshada S",
+    "age": 19,
+    "gender": "Female",
+    "history": "fever"
+  },
+  {
+    "patient_id": "4",
+    "name": "Aaradhya",
+    "age": 12,
+    "gender": "Male",
+    "history": "caugh"
+  },
+  {
+    "patient_id": "5",
+    "name": "Akku",
+    "age": 24,
+    "gender": "Female",
+    "history": "throat infection, "
+  }
+]
